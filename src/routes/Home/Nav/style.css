@@ -1,0 +1,5 @@
+:global(.ant-menu-item-selected) {
+  border-bottom: 2px solid #e1f3f6 !important;
+  color: #FFF !important;
+  background: #46BDD1 !important;
+}
